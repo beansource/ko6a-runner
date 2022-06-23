@@ -1,13 +1,14 @@
-standalone k6 test runner service for ko6a
+### Ko6a runner 🏁
 
-a go service that uses
-- https://github.com/gin-gonic/gin
-- https://github.com/hibiken/asynq
+Standalone k6 test runner service for ko6a, a go service that uses
+- [fiber ⚡️](https://github.com/gofiber/fiber)
+- [asynq](https://github.com/hibiken/asynq)
 
-prerequisites
+#### Prerequisites
 - [go](https://go.dev)
+- [task](https://taskfile.dev/installation/)
 
-development
+#### Development
 ```bash
 git clone https://github.com/beansource/ko6a-runner
 ```
