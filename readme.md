@@ -1,4 +1,4 @@
-### Ko6a runner 🏁
+### Ko6a Runner 🏁
 
 Standalone k6 test runner service for ko6a, a go service that uses
 - [fiber ⚡️](https://github.com/gofiber/fiber)
